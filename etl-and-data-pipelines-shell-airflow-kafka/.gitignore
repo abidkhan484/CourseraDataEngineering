@@ -1,5 +1,7 @@
 
-apache-workflow/logs/
-apache-workflow/dags/
-apache-workflow/plugins/
-apache-workflow/.env
+tools/apache-workflow/logs/
+tools/apache-workflow/dags/
+tools/apache-workflow/plugins/
+tools/apache-workflow/.env
+
+
